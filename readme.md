@@ -1,1 +1,2 @@
 This project is focusing on reconstructing a webpage and rebuilding it. I will be focusing on applying knowledge of developer tools and HTML.
+Through much confusion I've realized there are about a thousand ways to do the same thing.  I did my best to combine techniques, keep things simple, and think smarter not harder.  My first few versions were pointlessly complex and I scrapped a few ideas for being to complex.  I think the final product is pretty clean
