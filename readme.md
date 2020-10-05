@@ -1,0 +1,1 @@
+This project is focusing on reconstructing a webpage and rebuilding it. I will be focusing on applying knowledge of developer tools and HTML.
